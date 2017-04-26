@@ -1,0 +1,49 @@
+* {
+  font-family: 'Helvetica';
+}
+
+#id1 {
+    border-bottom:2px solid grey;
+}
+
+#id3 {
+    border-bottom:2px solid grey;
+}
+
+#id4 {
+    border-bottom:2px solid grey;
+}
+
+#id5 {
+    border-bottom:2px solid grey;
+}
+
+#id6 {
+    border-bottom:2px solid grey;
+}
+
+#tid1 {
+    width: 100%; 
+}
+
+#tid3 {
+    width: 100%;
+}
+
+#tid4 {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.idt {
+    height: 50px;
+}
+
+.idt2 {
+    text-align: left;
+}
+
+

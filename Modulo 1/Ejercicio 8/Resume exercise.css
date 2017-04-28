@@ -2,23 +2,7 @@
   font-family: 'Helvetica';
 }
 
-#id1 {
-    border-bottom:2px solid grey;
-}
-
-#id3 {
-    border-bottom:2px solid grey;
-}
-
-#id4 {
-    border-bottom:2px solid grey;
-}
-
-#id5 {
-    border-bottom:2px solid grey;
-}
-
-#id6 {
+#id1, #id3, #id4, #id5, #id6 {
     border-bottom:2px solid grey;
 }
 

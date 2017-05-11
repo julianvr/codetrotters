@@ -1,0 +1,69 @@
+* {
+    font-family: Lato, sans-serif;
+    color: white;
+}
+
+html,
+body,
+.container,
+.content,
+#navbar {
+    height: 100%;
+}
+
+.container {
+    margin:0 auto;
+    width: 80%;
+    position: relative;
+}
+.content {
+    width:75%;
+    float: left;
+    background-color: #232323;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+.card {
+    margin:10px;
+    float:left;
+    background-color:#3A3939;
+    max-width:350px;
+    border: 3px solid black;
+}
+.summary {
+    padding: 2px 6px;
+    color: #B1B1B1;
+}
+.summary > img {
+    width:350px;
+    margin-left: -6px;
+}
+
+#navbar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-left: black;
+    overflow-y:scroll;
+    float:left;
+    background-color:#3A3939;
+    width:15%;
+}
+#ProfilePicture {
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin:0 auto;
+}
+#navbar ul li > a:hover {
+    background-color: rgba(128, 128, 128, 0.14);
+    cursor: pointer;
+}
+#bkcolorp {
+    background-color: #232323;
+}
+.active {
+    border-right-width:5px;
+    border-right-color: #2ebd59;
+    background-color: rgba(128, 128, 128, 0.01);
+}
